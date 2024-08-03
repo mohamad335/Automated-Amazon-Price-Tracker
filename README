@@ -1,0 +1,4 @@
+this project is to create an aoutamed amazon price tracker from a lice website
+we scrape the website and get the price 
+then we check ig the price less than 100 then send an email by using smtplib 
+then we add headrs to my request to make it more human
